@@ -1,0 +1,9 @@
+C:\Users\Kayla\Desktop\C#\Projects\projects\Project12-1\Project12-1\bin\Debug\Project12-1.exe.config
+C:\Users\Kayla\Desktop\C#\Projects\projects\Project12-1\Project12-1\obj\Debug\Project12-1.csprojResolveAssemblyReference.cache
+C:\Users\Kayla\Desktop\C#\Projects\projects\Project12-1\Project12-1\obj\Debug\Project12_1.Form1.resources
+C:\Users\Kayla\Desktop\C#\Projects\projects\Project12-1\Project12-1\obj\Debug\Project12_1.Properties.Resources.resources
+C:\Users\Kayla\Desktop\C#\Projects\projects\Project12-1\Project12-1\obj\Debug\Project12-1.csproj.GenerateResource.Cache
+C:\Users\Kayla\Desktop\C#\Projects\projects\Project12-1\Project12-1\bin\Debug\Project12-1.exe
+C:\Users\Kayla\Desktop\C#\Projects\projects\Project12-1\Project12-1\bin\Debug\Project12-1.pdb
+C:\Users\Kayla\Desktop\C#\Projects\projects\Project12-1\Project12-1\obj\Debug\Project12-1.exe
+C:\Users\Kayla\Desktop\C#\Projects\projects\Project12-1\Project12-1\obj\Debug\Project12-1.pdb
